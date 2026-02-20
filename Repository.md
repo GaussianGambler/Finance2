@@ -38,14 +38,10 @@ This repository tracks lecture notes scribed by group members throughout the cou
 | `11` | 10 Feb 2026 | Mridhul | [View Notes →](https://drive.google.com/file/d/10KS-XORqatJlg57OnY6vZ0-xsP-c_uNS/view?usp=drive_link) |
 | `12` | 12 Feb 2026 | Ritankar | [View Notes →](https://drive.google.com/file/d/1pgbMPAB3fwqbfLbe6A_M6_gSuvq9UX3n/view?usp=drive_link) |
 | `13` | 13 Feb 2026 | Barninee | [View Notes →](https://drive.google.com/file/d/1IOG7uaV1-l07NhCYQpxcEgN-Baxb5xj-/view?usp=drive_link) |
-| `14` | 16 Feb 2026 | Sameer | ⏳ *Pending Upload* |
-
----
+| `14` | 16 Feb 2026 | Sameer | [View Notes →](https://drive.google.com/file/d/1sZ5A3PeAF_ckgYQp8I_FkM49Fj3XpeDa/view?usp=sharing) |
 
 
 
 > [!NOTE]
 > All notes are hosted on **Google Drive**. Access requires appropriate permissions.
 > If a link is broken or you cannot access a file, please contact the respective scribe or the course coordinator.
-
-
