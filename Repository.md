@@ -21,16 +21,6 @@ This repository tracks the lecture notes scribed by group members throughout the
 | 13 | 13 Feb 2026 | Barninee | [📄 View Notes](https://drive.google.com/file/d/1IOG7uaV1-l07NhCYQpxcEgN-Baxb5xj-/view?usp=drive_link) |
 | 14 | 16 Feb 2026 | Sameer | ⏳ *Pending upload* |
 
-## 👥 Contributors
 
-| Scribe | Sessions |
-|--------|----------|
-| Sameer | 4 |
-| Himanshu | 3 |
-| Ritankar | 3 |
-| Barninee | 3 |
-| Mridhul | 2 |
-
----
 
 > 📌 **Note:** All notes are hosted on Google Drive. Access requires appropriate permissions. Please contact the scribe or course coordinator if a link is broken or access is restricted.
